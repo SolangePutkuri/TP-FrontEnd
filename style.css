@@ -1,0 +1,28 @@
+body h1 {
+    background-color: palegoldenrod;
+    margin: 35px;
+    padding: 10px;
+    border: 5px solid salmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+body h2 {
+    font-weight: 100;
+    color: brown;
+}
+
+.textoAlineado {
+    text-align: center;
+}
+
+#fondoColor {
+    background-color: beige;
+    margin: 05px;
+    padding: 30px;
+}
+
+.fontStyle {
+    font-style: normal;
+    font-style: italic;
+}
