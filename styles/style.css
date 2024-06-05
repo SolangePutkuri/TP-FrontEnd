@@ -1,15 +1,15 @@
 body h1 {
-    background-color: palegoldenrod;
+    background-color: rgb(238, 235, 200);
     margin: 35px;
     padding: 10px;
-    border: 5px solid salmon;
+    border: 5px solid rgb(250, 114, 230);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
 }
 
 body h2 {
     font-weight: 100;
-    color: brown;
+    color: rgb(214, 108, 108);
 }
 
 .textoAlineado {
@@ -17,7 +17,7 @@ body h2 {
 }
 
 #fondoColor {
-    background-color: beige;
+    background-color: rgba(171, 68, 126, 0.981);
     margin: 05px;
     padding: 30px;
 }
